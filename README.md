@@ -1,5 +1,5 @@
 # book-app
-*Book App* is a Spring Boot Application that allows users to:
+*Book App* is a Spring Boot Application with REST APIs that allows users to:
 
     1. Search all the available books. search a book by book name. 
     2. Get book recommendations based on book genre and author. 
@@ -42,7 +42,7 @@
     4. Add a like.
     5. Remove a like.
 
-*User-jwt-service API*
+*User-jwt-service API* (This REST API is secured using JSON Web Token (JWT))
   1. User properties
 
     1. String username
