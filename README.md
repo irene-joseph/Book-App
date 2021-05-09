@@ -1,12 +1,14 @@
 # book-app
 *Book App* is a Spring Boot Application that allows users to:
-  1. search all the available books. search a book by book name. 
-  2. get book recommendations based on book genre and author. 
-  3. create a user profile(registration) 
-  4. access the user profile(login)  
-  5. add/delete books as favourites. 
-  6. update the password. 
-  7. delete his/her user profile.
+
+    1. Search all the available books. search a book by book name. 
+    2. Get book recommendations based on book genre and author. 
+    3. Create a user profile(registration) 
+    4. Access the user profile(login)
+    5. Add books as favourites. 
+    6. Remove books from favourites.
+    7. Update the password. 
+    8. Delete his/her user profile.
 
  *Tools and Technologies used*:
  
