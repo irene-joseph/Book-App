@@ -1,0 +1,452 @@
+[
+    {
+        "bookId": 1,
+        "book_name": "The Murder of Roger Ackroyd",
+        "book_summary": "Recently retired Hercule Poirot (David Suchet) investigates a neighbor's murder and the disappearance of the deceased's adopted son.",
+        "book_genre": "Crime",
+        "book_page_count": 312,
+        "author_name": "Agatha Christie",
+        "author_about": "Agatha Christie was an English writer known for her 66 detective novels and 14 short story collections, particularly those revolving around fictional detectives Hercule Poirot and Miss Marple. She also wrote the world's longest-running play, The Mousetrap."
+    },
+    {
+        "bookId": 2,
+        "book_name": "The Kite Runner",
+        "book_summary": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, caught in the tragic sweep of history, The Kite Runner transports readers to Afghanistan at a tense and crucial moment of change and destruction. A powerful story of friendship, it is also about the power of reading, the price of betrayal, and the possibility of redemption; and an exploration of the power of fathers over sons—their love, their sacrifices, their lies",
+        "book_genre": "Contemporary Fiction",
+        "book_page_count": 371,
+        "author_name": "Khaled Hosseini",
+        "author_about": "Khaled Hosseini is an Afghan-American novelist, physician, activist and humanitarian. His debut novel The Kite Runner was a critical and commercial success; the book, as well as his subsequent novels, have all been at least partially set in Afghanistan."
+    },
+    {
+        "bookId": 3,
+        "book_name": "To Kill a Mockingbird",
+        "book_summary": "In the Depression-era, Atticus Finch, a lawyer, sets out to defend a black man, who is accused of raping a white woman. Meanwhile, his children, Scout and Jem, spy on their reclusive neighbor.",
+        "book_genre": "Domestic Fiction",
+        "book_page_count": 281,
+        "author_name": "Harper Lee",
+        "author_about": "Nelle Harper Lee was an American novelist best known for her 1960 novel To Kill a Mockingbird. It won the 1961 Pulitzer Prize and has become a classic of modern American Literature."
+    },
+    {
+        "bookId": 4,
+        "book_name": "The Alchemist",
+        "book_summary": "The Alchemist follows the journey of an Andalusian shepherd boy named Santiago. Believing a recurring dream to be prophetic, he asks a Gypsy fortune teller in the nearby town about its meaning. The woman interprets the dream as a prophecy telling the boy that he will discover a treasure at the Egyptian pyramids.",
+        "book_genre": "Fantasy",
+        "book_page_count": 208,
+        "author_name": "Paulo Coelho",
+        "author_about": "Paulo Coelho is a Brazilian lyricist and novelist, best known for his novel The Alchemist. In 2014, he uploaded his personal papers online to create a virtual Paulo Coelho Foundation."
+    },
+    {
+        "bookId": 5,
+        "book_name": "The Mill on the Floss",
+        "book_summary": "The novel details the lives of Tom and Maggie Tulliver, siblings who grow up at Dorlcote Mill on the River Floss. The mill is situated at the junction of the River Floss and the more minor River Ripple, near the village of St Ogg's in Lincolnshire, England",
+        "book_genre": "Domestic fiction",
+        "book_page_count": 993,
+        "author_name": "George Eliot",
+        "author_about": "Mary Ann Evans known by her pen name George Eliot, was an English novelist, poet, journalist, translator and one of the leading writers of the Victorian era"
+    },
+    {
+        "bookId": 6,
+        "book_name": "Misery",
+        "book_summary": "The novel's narrative is based on the relationship of its two main characters – the popular writer Paul Sheldon and his psychotic fan Annie Wilkes. When Paul is seriously injured following a car accident, former nurse Annie brings him to her home, where Paul receives treatment and doses of pain medication.",
+        "book_genre": "Thriller",
+        "book_page_count": 310,
+        "author_name": "Stephen King",
+        "author_about": "Stephen Edwin King is an American author of horror, crime, suspense and fantasy novels. His books have sold more than 350 million copies and many have been adapted into films, television series, miniseries, and comic books."
+    },
+    {
+        "bookId": 7,
+        "book_name": "The Story of Doctor Dolittle",
+        "book_summary": "John Dolittle, MD, is a respected physician and quiet bachelor living with his spinster sister Sarah in the small English village of Puddleby-on-the-Marsh. His love of animals grows over the years and his household menagerie eventually scares off his human clientele, leading to loss of wealth.",
+        "book_genre": "Fantasy",
+        "book_page_count": 180,
+        "author_name": "Hugh Lofting",
+        "author_about": "Hugh John Lofting was an English author trained as a civil engineer, who created the classic children’s literature character of Doctor Dolittle. It first appeared in illustrated letters to his children written by Lofting from the British Army trenches in the First World War."
+    },
+    {
+        "bookId": 8,
+        "book_name": "The Monk Who Sold His Ferrari",
+        "book_summary": "The Monk Who Sold His Ferrari tells the extraordinary story of Julian Mantle, a lawyer forced to confront the spiritual crisis of his out-of-balance life, and the subsequent wisdom that he gains on a life-changing odyssey that enables him to create a life of passion, purpose and peace.",
+        "book_genre": "Fiction",
+        "book_page_count": 198,
+        "author_name": "Robin Sharma",
+        "author_about": "Robin Sharma is a Canadian writer. He has published 12 other books, and founded the training company Sharma Leadership International."
+    },
+    {
+        "bookId": 9,
+        "book_name": "Little Women",
+        "book_summary": "The story follows the lives of the four March sisters—Meg, Jo, Beth, and Amy—and details their passage from childhood to womanhood. It is loosely based on the lives of the author and her three sisters. Scholars classify it as an autobiographical or semi-autobiographical novel.",
+        "book_genre": "Fiction",
+        "book_page_count": 759,
+        "author_name": "Louisa May Alcott",
+        "author_about": "Louisa May Alcott was an American novelist, short story writer and poet best known as the author of the novel Little Women and its sequels Little Men and Jo’s boys."
+    },
+    {
+        "bookId": 10,
+        "book_name": "Treasure island",
+        "book_summary": "It is set in the days of sailing ships and pirates and tells of the adventures of Jim Hawkins and his search for the buried treasure of an evil pirate, Captain Flint. The story begins at 'Admiral Benbow', the inn that belongs to Jim Hawkin's parents.",
+        "book_genre": "Adventure",
+        "book_page_count": 292,
+        "author_name": "Robert Stevenson",
+        "author_about": "Robert Louis Stevenson was a Scottish novelist, poet and travel writer. A celebrity in his lifetime, Stevenson's critical reputation has fluctuated since his death, though today his works are held in general acclaim."
+    },
+    {
+        "bookId": 11,
+        "book_name": "Great Expectations",
+        "book_summary": "Great Expectations is the story of Pip, an orphan boy adopted by a blacksmith's family, who has good luck and great expectations, and then loses both his luck and his expectations. Through this rise and fall, however, Pip learns how to find happiness.",
+        "book_genre": "Fiction",
+        "book_page_count": 554,
+        "author_name": "Charles Dickens",
+        "author_about": "Charles Dickens was an English writer and social critic. He created some of the world's best-known fictional characters and is regarded by many as the greatest novelist of the Victorian era."
+    },
+    {
+        "bookId": 12,
+        "book_name": "The Girl on the Train",
+        "book_summary": "The story is a first-person narrative told from the point of view of three women: Rachel Watson, Anna Boyd, and Megan Hipwell. Rachel Watson is a 33-year-old alcoholic, reeling from the end of her marriage to Tom, who left her for another woman.",
+        "book_genre": "Psychological Thriller",
+        "book_page_count": 317,
+        "author_name": "Paula Hawkins",
+        "author_about": "Paula Hawkins is a British author, best known for her best-selling  Psychological Thriller novel The Girl on the Train. The novel was adapted into a film starring Emily Blunt in 2016"
+    },
+    {
+        "bookId": 13,
+        "book_name": "Pride and Prejudice",
+        "book_summary": "Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry.",
+        "book_genre": "Romance",
+        "book_page_count": 408,
+        "author_name": "Jane Austen",
+        "author_about": "Jane Austen was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage in the pursuit of favorable social standing and economic security."
+    },
+    {
+        "bookId": 14,
+        "book_name": "The Littles",
+        "book_summary": "Meet the Littles, a family like any other but with a few tiny differences! They live in the walls of the Bigg family house where they get everything they need. In return, they make sure the Bigg house is always in good repair. When the Biggs go away for the summer the Newcombs come to stay in their house.",
+        "book_genre": "Fantasy",
+        "book_page_count": 80,
+        "author_name": "John Peterson",
+        "author_about": "John Peterson was an American author of children’s books. During his lifetime, he spoke at US elementary schools, volunteered for the Boy Scouts and directed a Sunday school class."
+    },
+    {
+        "bookId": 15,
+        "book_name": "To the Lighthouse",
+        "book_summary": "The novel centers on the Ramsay family and their visits to the Isle of Skye in Scotland between 1910 and 1920.",
+        "book_genre": "Fiction",
+        "book_page_count": 320,
+        "author_name": "Virginia Woolf",
+        "author_about": "Virginia Woolf was an English writer, considered one of the most important modernist 20th-century authors and also a pioneer in the use of stream of consciousness as a narrative device."
+    },
+    {
+        "bookId": 16,
+        "book_name": "War and Peace",
+        "book_summary": "War and Peace begins in the Russian city of St. Petersburg in 1805, as fear of Napoleon's ongoing war-making begins to set in. Most of the characters are introduced at a party, including Pierre Bezukhov, Andrey Bolkonsky, and the Kuragin and Rostov families.",
+        "book_genre": "Historical novel",
+        "book_page_count": 1125,
+        "author_name": "Leo Tolstoy",
+        "author_about": "Leo Tolstoy was a Russian writer who is regarded as one of the greatest authors of all time.  He received nominations for the Nobel Prize in Literature every year from 1902 to 1906 and for the Nobel Peace Prize in 1901, 1902, and 1909."
+    },
+    {
+        "bookId": 17,
+        "book_name": "Wings of Fire",
+        "book_summary": "It is the story of a boy from a humble background who went on to become a key player in Indian space research/Indian missile programs and later became the President of India.",
+        "book_genre": "Autobiography",
+        "book_page_count": 180,
+        "author_name": "A P J Abdul Kalam",
+        "author_about": "Avul Pakir Jainulabdeen Abdul Kalam was an Indian aerospace scientist who served as the 11th President of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering."
+    },
+    {
+        "bookId": 18,
+        "book_name": "The God of Small Things",
+        "book_summary": "It is a story about the childhood experiences of fraternal twins whose lives are destroyed by the Love Laws that lay down who should be loved, and how.",
+        "book_genre": "Psychological Fiction",
+        "book_page_count": 339,
+        "author_name": "Arundhati Roy",
+        "author_about": "Suzanna Arundhati Roy is an Indian author. She won the Man Booker Prize for Fiction in 1997 and became the best-selling book by a non-expatriate Indian author. She is also a political activist involved in human rights and environmental causes."
+    },
+    {
+        "bookId": 19,
+        "book_name": "Three Thousand Stitches",
+        "book_summary": "'Three thousand stitches' is a story where the author wanted to eradicate the devadasi system and for this, she tried hard. However, the success doesn't come until her father gives her a practical piece of advice.",
+        "book_genre": "Literary Collection",
+        "book_page_count": 256,
+        "author_name": "Sudha Murty",
+        "author_about": "Sudha Murthy is a Padma Shri awardee, Indian Engineering teacher, Kannada, Marathi and English author as well as a Social worker."
+    },
+    {
+        "bookId": 20,
+        "book_name": "The Casual Vacancy",
+        "book_summary": "The novel is split into seven parts, the first depicting the aftermath of the death of local Pagford Parish Councillor, Barry Fairbrother, who suffers a burst aneurysm in the car park of a local golf course. The inhabitants of the town share the news with their friends and relatives and chaos ensues.",
+        "book_genre": "Fantasy Fiction",
+        "book_page_count": 503,
+        "author_name": "J K Rowling",
+        "author_about": "J. K. Rowling is a British author, philanthropist, film producer, television producer, and screenwriter. She is best known for writing the Harry Potter fantasy series, which has won multiple awards and sold more than 500 million copies"
+    },
+    {
+        "bookId": 21,
+        "book_name": "Animal Farm",
+        "book_summary": "This novel is an allegory - even though it is set on a farm and stars a cast of farm animals, it reflects the events of the Russian revolution of 1917. The animals are all clever representations of Russian politicians, voters and workers.",
+        "book_genre": "Political satire",
+        "book_page_count": 112,
+        "author_name": "George Orwell",
+        "author_about": "George Orwell was an Indian-born British novelist, essayist, journalist and critic. His work is characterized by lucid prose, biting social criticism, opposition to totalitarianism, and outspoken support of democratic socialism."
+    },
+    {
+        "bookId": 22,
+        "book_name": "Glimpses of World History",
+        "book_summary": "This book is a collection of letters that Jawaharlal Nehru wrote to his daughter Indira when he was in various Indian prisons for three years. The letters were meant to introduce her to the world and its history.",
+        "book_genre": "History",
+        "book_page_count": 1192,
+        "author_name": "Jawaharlal Nehru",
+        "author_about": "Jawaharlal Nehru was an Indian independence activist and, subsequently, the first Prime Minister of India, as well as a central figure in Indian politics both before and after Independence."
+    },
+    {
+        "bookId": 23,
+        "book_name": "The Merchant of Venice",
+        "book_summary": "Bassanio requires a lot of money if he wants to marry Portia. Unable to procure it from elsewhere, he must make a deadly deal with Shylock, a cruel moneylender from the Semitic ghetto.",
+        "book_genre": "Shakespearean comedy",
+        "book_page_count": 304,
+        "author_name": "William Shakespeare",
+        "author_about": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist. He is often called England's national poet and the Bard of Avon."
+    },
+    {
+        "bookId": 24,
+        "book_name": "Catch-22",
+        "book_summary": "The work centers on Captain John Yossarian, an American bombardier stationed on a Mediterranean island during World War II, and chronicles his desperate attempts to stay alive.",
+        "book_genre": "Satire",
+        "book_page_count": 453,
+        "author_name": "Joseph Heller",
+        "author_about": "Joseph Heller was an American author of novels, short stories, plays, and screenplays. His best-known work is the 1961 novel Catch-22, a satire on war and bureaucracy, whose title has become a synonym for an absurd or contradictory choice."
+    },
+    {
+        "bookId": 25,
+        "book_name": "One Hundred Years of Solitude",
+        "book_summary": "This is the author's epic tale of seven generations of the Buendía family that also spans a hundred years of turbulent Latin American history, from the postcolonial 1820s to the 1920s. Patriarch José Arcadio Buendía builds the utopian city of Macondo in the middle of a swamp.",
+        "book_genre": "Epic Fiction",
+        "book_page_count": 448,
+        "author_name": "Gabriel García Márquez",
+        "author_about": "Gabriel García Márquez was a Colombian novelist, short-story writer, screenwriter, and journalist. He was considered one of the most significant authors of the 20th century, particularly in the Spanish language."
+    },
+    {
+        "bookId": 26,
+        "book_name": "Invisible Man",
+        "book_summary": "The narrator of Invisible Man is a nameless young black man who moves in the 20th-century United States where reality is surreal and who can survive only through pretense.",
+        "book_genre": "Fiction",
+        "book_page_count": 581,
+        "author_name": "Ralph Ellison",
+        "author_about": "Ralph Ellison was an African-American novelist, literary critic, and scholar best known for his novel Invisible Man which won the National Book Award in 1953. He also wrote Shadow and Act, a collection of political, social and critical essays, and Going to the Territory."
+    },
+    {
+        "bookId": 27,
+        "book_name": "Anna Karenina",
+        "book_summary": "In 1874 Russia, Prince Oblonsky, the brother of Anna Karenina, has an affair with his housemaid. Anna travels from Saint Petersburg to Moscow in an attempt to save his marriage.",
+        "book_genre": "Literary realism",
+        "book_page_count": 864,
+        "author_name": "Leo Tolstoy",
+        "author_about": "Leo Tolstoy was a Russian writer who is regarded as one of the greatest authors of all time.  He received nominations for the Nobel Prize in Literature every year from 1902 to 1906 and for the Nobel Peace Prize in 1901, 1902, and 1909."
+    },
+    {
+        "bookId": 28,
+        "book_name": "The Rainbow",
+        "book_summary": "It follows three generations of the Brangwen family living in Nottinghamshire, particularly focusing on the individual's struggle to growth and fulfillment within the confining strictures of English social life.",
+        "book_genre": "Fiction",
+        "book_page_count": 464,
+        "author_name": "D. H. Lawrence",
+        "author_about": "David Herbert Lawrence was an English writer and poet. His collected works represent, among other things, an extended reflection upon the dehumanizing effects of modernity and industrialization."
+    },
+    {
+        "bookId": 29,
+        "book_name": "A Bend in the River",
+        "book_summary": "A Bend in the River chronicles both an internal journey and a physical trek into the heart of Africa as it explores the themes of personal exile and political and individual corruption.",
+        "book_genre": "Political fiction",
+        "book_page_count": 278,
+        "author_name": "V.S.Naipaul",
+        "author_about": "V.S.Naipaul was a Trinidad and Tobago-born British writer of works of fiction and nonfiction in English. He is known for his comic early novels set in Trinidad."
+    },
+    {
+        "bookId": 30,
+        "book_name": "The Da Vinci Code",
+        "book_summary": " A murder in Paris' Louvre Museum and cryptic clues in some of Leonardo da Vinci's most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that -- should it come to light -- could rock the very foundations of Christianity",
+        "book_genre": "Mystery Thriller",
+        "book_page_count": 689,
+        "author_name": "Dan Brown",
+        "author_about": "Daniel Gerhard Brown is an American author best known for his thriller novels. His novels are deeply engaged with Christian themes and historical facts."
+    },
+    {
+        "bookId": 31,
+        "book_name": "The Game of Logic",
+        "book_summary": "The book describes, in an informal and playful style, the use of a board game to represent logical propositions and inferences. Dodgson/Carroll incorporated the game into a longer and more formal introductory logic textbook titled Symbolic Logic, published in 1897. The books are sometimes reprinted in a single volume.",
+        "book_genre": "Children’s Literature",
+        "book_page_count": 92,
+        "author_name": "Lewis Carroll",
+        "author_about": "Lewis Carroll was an English writer of children's fiction. He was noted for his facility with wordplay, logic, and fantasy."
+    },
+    {
+        "bookId": 32,
+        "book_name": "The Nightingale and the Rose",
+        "book_summary": "The main theme of the story 'The Nightingale and the rose' written by Oscar Wilde is a boy of philosophy who fallen in love with a professor's daughter, wanted to dance with her at a ball but she said that if he would bring a red rose for her then she would dance with him.",
+        "book_genre": "Fiction",
+        "book_page_count": 90,
+        "author_name": "Oscar Wilde",
+        "author_about": "Oscar Wilde was an Irish poet and playwright. After writing in different forms throughout the 1880s, the early 1890s saw him become one of the most popular playwrights in London. He is best remembered for his epigrams and plays."
+    },
+    {
+        "bookId": 33,
+        "book_name": "Master of the Game",
+        "book_summary": "The novel revolves around four generations of the empire's rise and Kate's dedication to the conglomerate. Kate's father, Jamie McGregor, leaves Scotland for Klipdrift, South Africa to find his fortune in the growing diamond trade of the 1860s",
+        "book_genre": "Thriller",
+        "book_page_count": 496,
+        "author_name": "Sidney Sheldon",
+        "author_about": "Sidney Sheldon was an American writer, director and producer. He was prominent in the 1930s, first working on Broadway plays and then in motion pictures"
+    },
+    {
+        "bookId": 34,
+        "book_name": "Five Point Someone",
+        "book_summary": "Five Point Someone is a story about three friends in IIT who are unable to cope. Three hostel mates – Alok, Hari and Ryan get off to a bad start in IIT – they screw up the first class quiz. And while they try to make amends, things only get worse.",
+        "book_genre": "Romance",
+        "book_page_count": 270,
+        "author_name": "Chetan Bhagat",
+        "author_about": "Chetan Bhagat is an Indian author and columnist. He was included in Time magazine's list of the World's 100 Most Influential People in 2010."
+    },
+    {
+        "bookId": 35,
+        "book_name": "Malgudi Days",
+        "book_summary": "This is a collection of short stories. The book includes 32 stories, all set in the fictional town of Malgudi, located in South India.",
+        "book_genre": "Short story collection",
+        "book_page_count": 247,
+        "author_name": "R. K. Narayan",
+        "author_about": "R. K. Narayan was an Indian writer known for his work set in the fictional South Indian town of Malgudi. He was a leading author of early Indian literature in English along with Mulk Raj Anand and Raja Rao."
+    },
+    {
+        "bookId": 36,
+        "book_name": "A Christmas Carol",
+        "book_summary": "A Christmas Carol is a play about a mean-spirited and selfish old man, Ebenezer Scrooge, who hates Christmas. One cold Christmas Eve, Scrooge is unkind to the people who work for him, then refuses to give to charity, and then is rude to his nephew when he invites him to spend Christmas with him.",
+        "book_genre": "Fiction",
+        "book_page_count": 116,
+        "author_name": "Charles Dickens",
+        "author_about": "Charles Dickens was an English writer and social critic. He created some of the world's best-known fictional characters and is regarded by many as the greatest novelist of the Victorian era."
+    },
+    {
+        "bookId": 37,
+        "book_name": "The Canterville Ghost",
+        "book_summary": "The restless ghost of Sir Simon Canterville has been endlessly haunting his castle in search of a brave soul who will release him from the Canterville curse. A family then moves into the castle, and upon discovering the ghost, finds him to be quite amusing.",
+        "book_genre": "Gothic fiction",
+        "book_page_count": 70,
+        "author_name": "Oscar Wilde",
+        "author_about": "Oscar Wilde was an Irish poet and playwright. After writing in different forms throughout the 1880s, the early 1890s saw him become one of the most popular playwrights in London. He is best remembered for his epigrams and plays."
+    },
+    {
+        "bookId": 38,
+        "book_name": "The Turn of the Screw",
+        "book_summary": "The novella follows a governess who, caring for two children at a remote estate, becomes convinced that the grounds are haunted.",
+        "book_genre": "Horror fiction",
+        "book_page_count": 96,
+        "author_name": "Oscar Wilde",
+        "author_about": "Henry James was an American author. He is regarded as a key transitional figure between literary realism and literary modernism and is considered by many to be among the greatest novelists in the English language."
+    },
+    {
+        "bookId": 39,
+        "book_name": "After Twenty Years",
+        "book_summary": " 'After Twenty Years,' focuses on the reunion of two old friends: Jimmy and Bob. Through their brief encounter, the two explore the themes of friendship, loyalty, and trust. Bob's punctuality in keeping his meeting with Jimmy perhaps best demonstrates his loyalty to their friendship.",
+        "book_genre": "Fiction",
+        "book_page_count": 956,
+        "author_name": "O. Henry",
+        "author_about": "O. Henry was an American short story writer. His stories are known for their surprise endings and witty narration."
+    },
+    {
+        "bookId": 40,
+        "book_name": "Hold My Hand",
+        "book_summary": "The book, 'Hold My Hand' is a contemporary Indian fiction novel that reflects the true aspects of love. Revolving around the relationship of two youngsters, Deep and Ahana, the story reveals the true power of love and the sacrifices one has to endure for the one they love.",
+        "book_genre": "Fiction",
+        "book_page_count": 216,
+        "author_name": "Durjoy Datta",
+        "author_about": "Durjoy Datta is an Indian author and screenwriter known for his coffee-table novels about the romantic life of young Indians."
+    },
+    {
+        "bookId": 41,
+        "book_name": "Life on the Mississippi",
+        "book_summary": "Life on the Mississippi is a memoir of Twain's personal experiences as a steamboat pilot on the Mississippi River. As a boy, Twain talks his way onto the Paul Jones, a steamer, where he pays the pilot, Mr. Bixby, $500 to teach him everything he knows. Twain learns the ecology and history of the Mississippi River.",
+        "book_genre": "Biography",
+        "book_page_count": 624,
+        "author_name": "Mark Twain",
+        "author_about": "Mark Twain was an American writer, humorist, entrepreneur, publisher, and lecturer. He was lauded as the greatest humorist the United States has produced."
+    },
+    {
+        "bookId": 42,
+        "book_name": "Like it happened yesterday",
+        "book_summary": "Like It Happened Yesterday is about a childhood gone by. By way of a fictional journey, the author recaptures stories about school, hounding examinations, essential vaccinations and other mores that are part of anyone's childhood spent in smaller cities and towns of the country.",
+        "book_genre": "Fiction",
+        "book_page_count": 216,
+        "author_name": "Ravinder Singh",
+        "author_about": "Ravinder Singh is an Indian software engineer and author of nine novels. Singh's debut novel is based on a real-life incident."
+    },
+    {
+        "bookId": 43,
+        "book_name": "Ulysses",
+        "book_summary": " 'Ulysses' was written in 1833 by Alfred Lord Tennyson, the future Poet Laureate of Great Britain. The poem takes the form of a dramatic monologue spoken by Ulysses, a character who also appears in Homer's Greek epic The Odyssey and Dante's Italian epic the Inferno",
+        "book_genre": "Fiction",
+        "book_page_count": 730,
+        "author_name": "James Joyce",
+        "author_about": "James Joyce was an Irish novelist, short story writer, poet, teacher, and literary critic. He contributed to the modernist avant-garde movement and is regarded as one of the most influential and important writers of the 20th century."
+    },
+    {
+        "bookId": 44,
+        "book_name": "Bloodline",
+        "book_summary": "Bloodline centers on a close-knit family of four adult siblings whose secrets and scars are revealed when their black sheep brother returns home. The writing trio settled on the theme of family as they tried to determine what their next project would look like.",
+        "book_genre": "Thriller",
+        "book_page_count": 480,
+        "author_name": "Sidney Sheldon",
+        "author_about": "Sidney Sheldon is the mega-selling international author of seventeen bestselling novels and one autobiography. There are now over 275 million copies of his books in print worldwide."
+    },
+    {
+        "bookId": 45,
+        "book_name": "Julius Caesar",
+        "book_summary": "The Tragedy of Julius Caesar is a history play and tragedy by William Shakespeare first performed in 1599. Although the play is named Julius Caesar, Brutus speaks more than four times as many lines as the title character, and the central psychological drama of the play focuses on Brutus.",
+        "book_genre": "Tragedy",
+        "book_page_count": 108,
+        "author_name": "William Shakespeare",
+        "author_about": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist. He is often called England's national poet and the Bard of Avon. "
+    },
+    {
+        "bookId": 46,
+        "book_name": "David Copperfield",
+        "book_summary": "Charles Dickens’  David Copperfield relates the story of a young boy's growth and development into maturity. It is written from the point of view of the mature adult who recounts his own obstacles and the obstacles of those around him and how it all shaped his life and his beliefs.",
+        "book_genre": "Classical fiction",
+        "book_page_count": 837,
+        "author_name": "Charles Dickens",
+        "author_about": "Charles Dickens was an English writer and social critic. He created some of the world's best-known fictional characters and is regarded by many as the greatest novelist of the Victorian era."
+    },
+    {
+        "bookId": 47,
+        "book_name": "The Notebook",
+        "book_summary": "In 1940s South Carolina, mill worker Noah Calhoun and rich girl Allie are desperately in love. But her parents don't approve. When Noah goes off to serve in World War II, it seems to mark the end of their love affair. In the interim, Allie becomes involved with another man. But when Noah returns to their small town years later, on the cusp of Allie's marriage, it soon becomes clear that their romance is anything but over.",
+        "book_genre": "Fiction",
+        "book_page_count": 224,
+        "author_name": "Nicholas Sparks",
+        "author_about": "Nicholas Charles Sparks is an American novelist, screenwriter, and philanthropist. He has published twenty-one novels and two non-fiction books, all of which have been New York Times bestsellers."
+    },
+    {
+        "bookId": 48,
+        "book_name": "The Tempest",
+        "book_summary": "The Tempest is a play by English playwright William Shakespeare, probably written in 1610–1611, and thought to be one of the last plays that Shakespeare wrote alone.",
+        "book_genre": "Drama",
+        "book_page_count": 175,
+        "author_name": "William Shakespeare",
+        "author_about": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist. He is often called England's national poet and the Bard of Avon"
+    },
+    {
+        "bookId": 49,
+        "book_name": " Deception point",
+        "book_summary": "The novel centers around Rachel Sexton, a worker for the NRO, who is sent by the President to the Arctic, in order to examine a meteorite found by NASA.",
+        "book_genre": "Thriller",
+        "book_page_count": 592,
+        "author_name": "Dan Brown",
+        "author_about": "Daniel Gerhard Brown is an American author best known for his thriller novels. His novels are deeply engaged with Christian themes and historical facts."
+    },
+    {
+        "bookId": 50,
+        "book_name": "The Kite Runner",
+        "book_summary": "The Kite Runner is a novel about relationships — specifically the relationships between Amir and Hassan, Baba, Rahim Khan, Soraya, and Sohrab — and how the complex relationships in our lives overlap and connect to make us the people we are.\",",
+        "book_genre": "Drama",
+        "book_page_count": 104,
+        "author_name": "Khaled Hosseini",
+        "author_about": "Khaled Hosseini is an Afghan-American novelist, physician, activist and humanitarian. His debut novel The Kite Runner was a critical and commercial success; the book, as well as his subsequent novels, have all been at least partially set in Afghanistan."
+    }
+]
