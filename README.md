@@ -54,8 +54,8 @@
     
   2. Services
 
-    1. Create user profile(registration)
-    2. Login(authentication using JWT and token is generated)
+    1. Create user profile(registration).
+    2. Login(authentication using JWT and token is generated).
     3. Authenticated user can update his/her password.
     4. Authenticated user can delete his/her profile.
     5. Authenticated user can add books as favourites.
